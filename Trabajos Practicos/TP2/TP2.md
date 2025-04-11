@@ -12,6 +12,9 @@ de máximo enfoque.
 
 El algoritmo de detección a implementar debe detectar y devolver los puntos de máximo enfoque de manera automática.
 
+Puntos extra: Aplicar unsharp masking para expandir la zona de enfoque y devolver.
+
 Ejemplo:
 
 ![image](https://github.com/user-attachments/assets/7b447ea7-95d5-4afb-b770-dc40a2f2a448)
+
